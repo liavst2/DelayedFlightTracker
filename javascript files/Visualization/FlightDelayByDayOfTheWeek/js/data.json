@@ -1,0 +1,31 @@
+
+{
+    "0": {
+        "day": "Monday",
+        "precent": "34.24"
+    },
+    "1": {
+        "day": "Tuesday",
+        "precent": "32.17"
+    },
+    "2": {
+        "day": "Wednesday",
+        "precent": "32.74"
+    },
+    "3": {
+        "day": "Thursday",
+        "precent": "36.38"
+    },
+    "4": {
+        "day": "Friday",
+        "precent": "36.41"
+    },
+    "5": {
+        "day": "Saturday",
+        "precent": "31.79"
+    },
+    "6": {
+        "day": "Sunday",
+        "precent": "34.06"
+    }
+}

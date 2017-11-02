@@ -1,0 +1,6 @@
+In the visualization assignment,
+We used the d3 library.
+In order to see the HTML files / execute the code,
+you need to have a static files server.
+In order to make it easy, 
+We put our final outcome  (PNG FILES) in this folder.

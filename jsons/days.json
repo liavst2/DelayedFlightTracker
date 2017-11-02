@@ -1,0 +1,43 @@
+
+{
+      "0": {
+            "Code": 1,
+            "Description": "Monday",
+            "index": 0
+      },
+      "1": {
+            "Code": 2,
+            "Description": "Tuesday",
+            "index": 1
+      },
+      "2": {
+            "Code": 3,
+            "Description": "Wednesday",
+            "index": 2
+      },
+      "3": {
+            "Code": 4,
+            "Description": "Thursday",
+            "index": 3
+      },
+      "4": {
+            "Code": 5,
+            "Description": "Friday",
+            "index": 4
+      },
+      "5": {
+            "Code": 6,
+            "Description": "Saturday",
+            "index": 5
+      },
+      "6": {
+            "Code": 7,
+            "Description": "Sunday",
+            "index": 6
+      },
+      "7": {
+            "Code": 9,
+            "Description": "Unknown",
+            "index": 7
+      }
+}

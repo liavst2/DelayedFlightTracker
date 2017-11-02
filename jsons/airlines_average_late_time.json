@@ -1,0 +1,68 @@
+
+{
+      "0": {
+            "average_late": -0.41973551949662546,
+            "id": 19690,
+            "name": "Hawaiian Airlines Inc.: HA"
+      },
+      "1": {
+            "average_late": 0.025746139777701023,
+            "id": 19930,
+            "name": "Alaska Airlines Inc.: AS"
+      },
+      "10": {
+            "average_late": 12.164430597062378,
+            "id": 20436,
+            "name": "Frontier Airlines Inc.: F9"
+      },
+      "11": {
+            "average_late": 12.39213681846333,
+            "id": 20416,
+            "name": "Spirit Air Lines: NK"
+      },
+      "12": {
+            "average_late": 13.229938404858533,
+            "id": 20409,
+            "name": "JetBlue Airways: B6"
+      },
+      "2": {
+            "average_late": 7.0812453669384725,
+            "id": 20398,
+            "name": "Envoy Air: MQ"
+      },
+      "3": {
+            "average_late": 7.087260836756938,
+            "id": 20304,
+            "name": "SkyWest Airlines Inc.: OO"
+      },
+      "4": {
+            "average_late": 7.84550985116197,
+            "id": 19790,
+            "name": "Delta Air Lines Inc.: DL"
+      },
+      "5": {
+            "average_late": 8.907000786679626,
+            "id": 19805,
+            "name": "American Airlines Inc.: AA"
+      },
+      "6": {
+            "average_late": 9.108546875744201,
+            "id": 19393,
+            "name": "Southwest Airlines Co.: WN"
+      },
+      "7": {
+            "average_late": 9.1758943641678,
+            "id": 20366,
+            "name": "ExpressJet Airlines Inc.: EV"
+      },
+      "8": {
+            "average_late": 11.292781594315892,
+            "id": 21171,
+            "name": "Virgin America: VX"
+      },
+      "9": {
+            "average_late": 11.49727818359466,
+            "id": 19977,
+            "name": "United Air Lines Inc.: UA"
+      }
+}

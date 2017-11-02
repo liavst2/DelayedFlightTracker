@@ -1,0 +1,1279 @@
+
+{
+      "0": {
+            "name": "Houston, TX: Ellington",
+            "size": 1
+      },
+      "1": {
+            "name": "Saipan, TT: Francisco C. Ada Saipan International",
+            "size": 1
+      },
+      "10": {
+            "name": "Toledo, OH: Toledo Express",
+            "size": 86
+      },
+      "100": {
+            "name": "Pellston, MI: Pellston Regional Airport of Emmet County",
+            "size": 1084
+      },
+      "101": {
+            "name": "Montrose/Delta, CO: Montrose Regional",
+            "size": 1092
+      },
+      "102": {
+            "name": "Christiansted, VI: Henry E. Rohlsen",
+            "size": 1094
+      },
+      "103": {
+            "name": "Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",
+            "size": 1141
+      },
+      "104": {
+            "name": "Newport News/Williamsburg, VA: Newport News/Williamsburg International",
+            "size": 1145
+      },
+      "105": {
+            "name": "Santa Fe, NM: Santa Fe Municipal",
+            "size": 1167
+      },
+      "106": {
+            "name": "College Station/Bryan, TX: Easterwood Field",
+            "size": 1203
+      },
+      "107": {
+            "name": "Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",
+            "size": 1236
+      },
+      "108": {
+            "name": "Columbus, GA: Columbus Airport",
+            "size": 1237
+      },
+      "109": {
+            "name": "Fort Smith, AR: Fort Smith Regional",
+            "size": 1244
+      },
+      "11": {
+            "name": "Dubuque, IA: Dubuque Regional",
+            "size": 89
+      },
+      "110": {
+            "name": "Jacksonville/Camp Lejeune, NC: Albert J Ellis",
+            "size": 1269
+      },
+      "111": {
+            "name": "Lake Charles, LA: Lake Charles Regional",
+            "size": 1306
+      },
+      "112": {
+            "name": "Rochester, MN: Rochester International",
+            "size": 1321
+      },
+      "113": {
+            "name": "Sitka, AK: Sitka Rocky Gutierrez",
+            "size": 1372
+      },
+      "114": {
+            "name": "Dothan, AL: Dothan Regional",
+            "size": 1377
+      },
+      "115": {
+            "name": "Arcata/Eureka, CA: Arcata",
+            "size": 1433
+      },
+      "116": {
+            "name": "Waco, TX: Waco Regional",
+            "size": 1471
+      },
+      "117": {
+            "name": "Casper, WY: Casper/Natrona County International",
+            "size": 1480
+      },
+      "118": {
+            "name": "Grand Forks, ND: Grand Forks International",
+            "size": 1507
+      },
+      "119": {
+            "name": "Melbourne, FL: Melbourne International",
+            "size": 1521
+      },
+      "12": {
+            "name": "Adak Island, AK: Adak",
+            "size": 104
+      },
+      "120": {
+            "name": "Eagle, CO: Eagle County Regional",
+            "size": 1642
+      },
+      "121": {
+            "name": "Bloomington/Normal, IL: Central Illinois Regional",
+            "size": 1653
+      },
+      "122": {
+            "name": "Helena, MT: Helena Regional",
+            "size": 1669
+      },
+      "123": {
+            "name": "Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",
+            "size": 1694
+      },
+      "124": {
+            "name": "Fayetteville, NC: Fayetteville Regional/Grannis Field",
+            "size": 1723
+      },
+      "125": {
+            "name": "Williston, ND: Sloulin Field International",
+            "size": 1746
+      },
+      "126": {
+            "name": "Minot, ND: Minot International",
+            "size": 1747
+      },
+      "127": {
+            "name": "Springfield, IL: Abraham Lincoln Capital",
+            "size": 1763
+      },
+      "128": {
+            "name": "Key West, FL: Key West International",
+            "size": 1812
+      },
+      "129": {
+            "name": "Aguadilla, PR: Rafael Hernandez",
+            "size": 1849
+      },
+      "13": {
+            "name": "Mammoth Lakes, CA: Mammoth Lakes Airport",
+            "size": 118
+      },
+      "130": {
+            "name": "Great Falls, MT: Great Falls International",
+            "size": 1870
+      },
+      "131": {
+            "name": "Flagstaff, AZ: Flagstaff Pulliam",
+            "size": 1901
+      },
+      "132": {
+            "name": "Elmira/Corning, NY: Elmira/Corning Regional",
+            "size": 1912
+      },
+      "133": {
+            "name": "Daytona Beach, FL: Daytona Beach International",
+            "size": 1948
+      },
+      "134": {
+            "name": "Saginaw/Bay City/Midland, MI: MBS International",
+            "size": 1969
+      },
+      "135": {
+            "name": "Yuma, AZ: Yuma MCAS/Yuma International",
+            "size": 2018
+      },
+      "136": {
+            "name": "Durango, CO: Durango La Plata County",
+            "size": 2042
+      },
+      "137": {
+            "name": "St. George, UT: St George Regional",
+            "size": 2047
+      },
+      "138": {
+            "name": "Killeen, TX: Robert Gray AAF",
+            "size": 2143
+      },
+      "139": {
+            "name": "Bristol/Johnson City/Kingsport, TN: Tri-Cities Regional TN/VA",
+            "size": 2154
+      },
+      "14": {
+            "name": "Pago Pago, TT: Pago Pago International",
+            "size": 120
+      },
+      "140": {
+            "name": "Laredo, TX: Laredo International",
+            "size": 2159
+      },
+      "141": {
+            "name": "Kalamazoo, MI: Kalamazoo/Battle Creek International",
+            "size": 2160
+      },
+      "142": {
+            "name": "Brownsville, TX: Brownsville South Padre Island International",
+            "size": 2162
+      },
+      "143": {
+            "name": "Trenton, NJ: Trenton Mercer",
+            "size": 2188
+      },
+      "144": {
+            "name": "Mission/McAllen/Edinburg, TX: McAllen Miller International",
+            "size": 2233
+      },
+      "145": {
+            "name": "Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",
+            "size": 2243
+      },
+      "146": {
+            "name": "Traverse City, MI: Cherry Capital",
+            "size": 2290
+      },
+      "147": {
+            "name": "Allentown/Bethlehem/Easton, PA: Lehigh Valley International",
+            "size": 2341
+      },
+      "148": {
+            "name": "Kalispell, MT: Glacier Park International",
+            "size": 2346
+      },
+      "149": {
+            "name": "Gainesville, FL: Gainesville Regional",
+            "size": 2349
+      },
+      "15": {
+            "name": "Hyannis, MA: Barnstable Municipal-Boardman/Polando Field",
+            "size": 121
+      },
+      "150": {
+            "name": "Charlottesville, VA: Charlottesville Albemarle",
+            "size": 2393
+      },
+      "151": {
+            "name": "Lansing, MI: Capital Region International",
+            "size": 2459
+      },
+      "152": {
+            "name": "Duluth, MN: Duluth International",
+            "size": 2470
+      },
+      "153": {
+            "name": "Fairbanks, AK: Fairbanks International",
+            "size": 2480
+      },
+      "154": {
+            "name": "Ketchikan, AK: Ketchikan International",
+            "size": 2480
+      },
+      "155": {
+            "name": "Idaho Falls, ID: Idaho Falls Regional",
+            "size": 2499
+      },
+      "156": {
+            "name": "Monterey, CA: Monterey Regional",
+            "size": 2522
+      },
+      "157": {
+            "name": "Bismarck/Mandan, ND: Bismarck Municipal",
+            "size": 2529
+      },
+      "158": {
+            "name": "Montgomery, AL: Montgomery Regional",
+            "size": 2542
+      },
+      "159": {
+            "name": "Wilmington, NC: Wilmington International",
+            "size": 2554
+      },
+      "16": {
+            "name": "Columbia, MO: Columbia Regional",
+            "size": 124
+      },
+      "160": {
+            "name": "Charleston/Dunbar, WV: Yeager",
+            "size": 2582
+      },
+      "161": {
+            "name": "Moline, IL: Quad City International",
+            "size": 2610
+      },
+      "162": {
+            "name": "Harrisburg, PA: Harrisburg International",
+            "size": 2615
+      },
+      "163": {
+            "name": "Missoula, MT: Missoula International",
+            "size": 2655
+      },
+      "164": {
+            "name": "Augusta, GA: Augusta Regional at Bush Field",
+            "size": 2656
+      },
+      "165": {
+            "name": "Bakersfield, CA: Meadows Field",
+            "size": 2657
+      },
+      "166": {
+            "name": "Tallahassee, FL: Tallahassee International",
+            "size": 2663
+      },
+      "167": {
+            "name": "Bend/Redmond, OR: Roberts Field",
+            "size": 2724
+      },
+      "168": {
+            "name": "Evansville, IN: Evansville Regional",
+            "size": 2886
+      },
+      "169": {
+            "name": "Alexandria, LA: Alexandria International",
+            "size": 2887
+      },
+      "17": {
+            "name": "Manhattan/Ft. Riley, KS: Manhattan Regional",
+            "size": 154
+      },
+      "170": {
+            "name": "Rapid City, SD: Rapid City Regional",
+            "size": 2965
+      },
+      "171": {
+            "name": "Medford, OR: Rogue Valley International - Medford",
+            "size": 2967
+      },
+      "172": {
+            "name": "Harlingen/San Benito, TX: Valley International",
+            "size": 3027
+      },
+      "173": {
+            "name": "Grand Junction, CO: Grand Junction Regional",
+            "size": 3037
+      },
+      "174": {
+            "name": "Lincoln, NE: Lincoln Airport",
+            "size": 3041
+      },
+      "175": {
+            "name": "Corpus Christi, TX: Corpus Christi International",
+            "size": 3070
+      },
+      "176": {
+            "name": "Monroe, LA: Monroe Regional",
+            "size": 3074
+      },
+      "177": {
+            "name": "Amarillo, TX: Rick Husband Amarillo International",
+            "size": 3086
+      },
+      "178": {
+            "name": "San Luis Obispo, CA: San Luis County Regional",
+            "size": 3140
+      },
+      "179": {
+            "name": "Gulfport/Biloxi, MS: Gulfport-Biloxi International",
+            "size": 3165
+      },
+      "18": {
+            "name": "Champaign/Urbana, IL: University of Illinois/Willard",
+            "size": 209
+      },
+      "180": {
+            "name": "Springfield, MO: Springfield-Branson National",
+            "size": 3181
+      },
+      "181": {
+            "name": "Lafayette, LA: Lafayette Regional Paul Fournet Field",
+            "size": 3192
+      },
+      "182": {
+            "name": "Peoria, IL: General Downing - Peoria International",
+            "size": 3206
+      },
+      "183": {
+            "name": "Sarasota/Bradenton, FL: Sarasota/Bradenton International",
+            "size": 3334
+      },
+      "184": {
+            "name": "Asheville, NC: Asheville Regional",
+            "size": 3351
+      },
+      "185": {
+            "name": "Appleton, WI: Appleton International",
+            "size": 3361
+      },
+      "186": {
+            "name": "Billings, MT: Billings Logan International",
+            "size": 3381
+      },
+      "187": {
+            "name": "Eugene, OR: Mahlon Sweet Field",
+            "size": 3566
+      },
+      "188": {
+            "name": "Atlantic City, NJ: Atlantic City International",
+            "size": 3668
+      },
+      "189": {
+            "name": "Pasco/Kennewick/Richland, WA: Tri Cities",
+            "size": 3795
+      },
+      "19": {
+            "name": "St. Augustine, FL: Northeast Florida Regional",
+            "size": 212
+      },
+      "190": {
+            "name": "Green Bay, WI: Green Bay Austin Straubel International",
+            "size": 3818
+      },
+      "191": {
+            "name": "Jackson, WY: Jackson Hole",
+            "size": 3985
+      },
+      "192": {
+            "name": "Flint, MI: Bishop International",
+            "size": 3999
+      },
+      "193": {
+            "name": "Burlington, VT: Burlington International",
+            "size": 4071
+      },
+      "194": {
+            "name": "Huntsville, AL: Huntsville International-Carl T Jones Field",
+            "size": 4162
+      },
+      "195": {
+            "name": "Bozeman, MT: Bozeman Yellowstone International",
+            "size": 4186
+      },
+      "196": {
+            "name": "Fargo, ND: Hector International",
+            "size": 4233
+      },
+      "197": {
+            "name": "Sioux Falls, SD: Joe Foss Field",
+            "size": 4278
+      },
+      "198": {
+            "name": "Fort Wayne, IN: Fort Wayne International",
+            "size": 4285
+      },
+      "199": {
+            "name": "Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",
+            "size": 4321
+      },
+      "2": {
+            "name": "Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",
+            "size": 1
+      },
+      "20": {
+            "name": "West Yellowstone, MT: Yellowstone",
+            "size": 224
+      },
+      "200": {
+            "name": "Aspen, CO: Aspen Pitkin County Sardy Field",
+            "size": 4502
+      },
+      "201": {
+            "name": "Panama City, FL: Northwest Florida Beaches International",
+            "size": 4527
+      },
+      "202": {
+            "name": "Columbia, SC: Columbia Metropolitan",
+            "size": 4546
+      },
+      "203": {
+            "name": "Chattanooga, TN: Lovell Field",
+            "size": 4578
+      },
+      "204": {
+            "name": "Lubbock, TX: Lubbock Preston Smith International",
+            "size": 4587
+      },
+      "205": {
+            "name": "Juneau, AK: Juneau International",
+            "size": 4588
+      },
+      "206": {
+            "name": "Islip, NY: Long Island MacArthur",
+            "size": 4695
+      },
+      "207": {
+            "name": "Cedar Rapids/Iowa City, IA: The Eastern Iowa",
+            "size": 4699
+      },
+      "208": {
+            "name": "Mobile, AL: Mobile Regional",
+            "size": 4930
+      },
+      "209": {
+            "name": "Charlotte Amalie, VI: Cyril E King",
+            "size": 4966
+      },
+      "21": {
+            "name": "Martha's Vineyard, MA: Martha's Vineyard Airport",
+            "size": 248
+      },
+      "210": {
+            "name": "Lexington, KY: Blue Grass",
+            "size": 5188
+      },
+      "211": {
+            "name": "South Bend, IN: South Bend International",
+            "size": 5299
+      },
+      "212": {
+            "name": "Akron, OH: Akron-Canton Regional",
+            "size": 5395
+      },
+      "213": {
+            "name": "Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",
+            "size": 5396
+      },
+      "214": {
+            "name": "Myrtle Beach, SC: Myrtle Beach International",
+            "size": 5724
+      },
+      "215": {
+            "name": "Midland/Odessa, TX: Midland International",
+            "size": 5914
+      },
+      "216": {
+            "name": "Pensacola, FL: Pensacola International",
+            "size": 5967
+      },
+      "217": {
+            "name": "Santa Barbara, CA: Santa Barbara Municipal",
+            "size": 5977
+      },
+      "218": {
+            "name": "Hilo, HI: Hilo International",
+            "size": 5988
+      },
+      "219": {
+            "name": "Shreveport, LA: Shreveport Regional",
+            "size": 6026
+      },
+      "22": {
+            "name": "Gunnison, CO: Gunnison-Crested Butte Regional",
+            "size": 255
+      },
+      "220": {
+            "name": "Syracuse, NY: Syracuse Hancock International",
+            "size": 6029
+      },
+      "221": {
+            "name": "Fayetteville, AR: Northwest Arkansas Regional",
+            "size": 6141
+      },
+      "222": {
+            "name": "Greensboro/High Point, NC: Piedmont Triad International",
+            "size": 6150
+      },
+      "223": {
+            "name": "Portland, ME: Portland International Jetport",
+            "size": 6321
+      },
+      "224": {
+            "name": "Manchester, NH: Manchester-Boston Regional",
+            "size": 6723
+      },
+      "225": {
+            "name": "Dayton, OH: James M Cox/Dayton International",
+            "size": 6809
+      },
+      "226": {
+            "name": "Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",
+            "size": 6970
+      },
+      "227": {
+            "name": "White Plains, NY: Westchester County",
+            "size": 7152
+      },
+      "228": {
+            "name": "Knoxville, TN: McGhee Tyson",
+            "size": 7160
+      },
+      "229": {
+            "name": "Greer, SC: Greenville-Spartanburg International",
+            "size": 7276
+      },
+      "23": {
+            "name": "North Bend/Coos Bay, OR: Southwest Oregon Regional",
+            "size": 302
+      },
+      "230": {
+            "name": "Savannah, GA: Savannah/Hilton Head International",
+            "size": 7308
+      },
+      "231": {
+            "name": "Rochester, NY: Greater Rochester International",
+            "size": 7498
+      },
+      "232": {
+            "name": "Madison, WI: Dane County Regional-Truax Field",
+            "size": 7729
+      },
+      "233": {
+            "name": "Wichita, KS: Wichita Dwight D Eisenhower National",
+            "size": 7998
+      },
+      "234": {
+            "name": "Des Moines, IA: Des Moines International",
+            "size": 8011
+      },
+      "235": {
+            "name": "Fresno, CA: Fresno Yosemite International",
+            "size": 8106
+      },
+      "236": {
+            "name": "Colorado Springs, CO: City of Colorado Springs Municipal",
+            "size": 8123
+      },
+      "237": {
+            "name": "Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",
+            "size": 8618
+      },
+      "238": {
+            "name": "Grand Rapids, MI: Gerald R. Ford International",
+            "size": 9329
+      },
+      "239": {
+            "name": "Albany, NY: Albany International",
+            "size": 9384
+      },
+      "24": {
+            "name": "Grand Island, NE: Central Nebraska Regional",
+            "size": 323
+      },
+      "240": {
+            "name": "Palm Springs, CA: Palm Springs International",
+            "size": 10038
+      },
+      "241": {
+            "name": "Louisville, KY: Louisville International-Standiford Field",
+            "size": 10050
+      },
+      "242": {
+            "name": "Spokane, WA: Spokane International",
+            "size": 10100
+      },
+      "243": {
+            "name": "Long Beach, CA: Long Beach Airport",
+            "size": 10780
+      },
+      "244": {
+            "name": "Norfolk, VA: Norfolk International",
+            "size": 11148
+      },
+      "245": {
+            "name": "El Paso, TX: El Paso International",
+            "size": 11411
+      },
+      "246": {
+            "name": "Lihue, HI: Lihue Airport",
+            "size": 11832
+      },
+      "247": {
+            "name": "Kona, HI: Kona International Airport at Keahole",
+            "size": 12255
+      },
+      "248": {
+            "name": "Birmingham, AL: Birmingham-Shuttlesworth International",
+            "size": 12330
+      },
+      "249": {
+            "name": "Providence, RI: Theodore Francis Green State",
+            "size": 12587
+      },
+      "25": {
+            "name": "Plattsburgh, NY: Plattsburgh International",
+            "size": 340
+      },
+      "250": {
+            "name": "Tulsa, OK: Tulsa International",
+            "size": 13967
+      },
+      "251": {
+            "name": "Reno, NV: Reno/Tahoe International",
+            "size": 14060
+      },
+      "252": {
+            "name": "Memphis, TN: Memphis International",
+            "size": 14269
+      },
+      "253": {
+            "name": "Boise, ID: Boise Air Terminal",
+            "size": 14624
+      },
+      "254": {
+            "name": "Charleston, SC: Charleston AFB/International",
+            "size": 14746
+      },
+      "255": {
+            "name": "Oklahoma City, OK: Will Rogers World",
+            "size": 15992
+      },
+      "256": {
+            "name": "Richmond, VA: Richmond International",
+            "size": 16018
+      },
+      "257": {
+            "name": "Tucson, AZ: Tucson International",
+            "size": 16061
+      },
+      "258": {
+            "name": "Cincinnati, OH: Cincinnati/Northern Kentucky International",
+            "size": 16067
+      },
+      "259": {
+            "name": "Anchorage, AK: Ted Stevens Anchorage International",
+            "size": 17265
+      },
+      "26": {
+            "name": "Abilene, TX: Abilene Regional",
+            "size": 345
+      },
+      "260": {
+            "name": "Omaha, NE: Eppley Airfield",
+            "size": 17931
+      },
+      "261": {
+            "name": "Buffalo, NY: Buffalo Niagara International",
+            "size": 18117
+      },
+      "262": {
+            "name": "Jacksonville, FL: Jacksonville International",
+            "size": 18796
+      },
+      "263": {
+            "name": "Albuquerque, NM: Albuquerque International Sunport",
+            "size": 18991
+      },
+      "264": {
+            "name": "Ontario, CA: Ontario International",
+            "size": 19479
+      },
+      "265": {
+            "name": "Hartford, CT: Bradley International",
+            "size": 20196
+      },
+      "266": {
+            "name": "Burbank, CA: Bob Hope",
+            "size": 22264
+      },
+      "267": {
+            "name": "Columbus, OH: Port Columbus International",
+            "size": 23260
+      },
+      "268": {
+            "name": "Kahului, HI: Kahului Airport",
+            "size": 23267
+      },
+      "269": {
+            "name": "West Palm Beach/Palm Beach, FL: Palm Beach International",
+            "size": 24298
+      },
+      "27": {
+            "name": "Guam, TT: Guam International",
+            "size": 367
+      },
+      "270": {
+            "name": "Pittsburgh, PA: Pittsburgh International",
+            "size": 25241
+      },
+      "271": {
+            "name": "San Juan, PR: Luis Munoz Marin International",
+            "size": 26932
+      },
+      "272": {
+            "name": "Indianapolis, IN: Indianapolis International",
+            "size": 27313
+      },
+      "273": {
+            "name": "Fort Myers, FL: Southwest Florida International",
+            "size": 29265
+      },
+      "274": {
+            "name": "San Antonio, TX: San Antonio International",
+            "size": 30812
+      },
+      "275": {
+            "name": "Milwaukee, WI: General Mitchell International",
+            "size": 32693
+      },
+      "276": {
+            "name": "Cleveland, OH: Cleveland-Hopkins International",
+            "size": 34366
+      },
+      "277": {
+            "name": "Washington, DC: Washington Dulles International",
+            "size": 34382
+      },
+      "278": {
+            "name": "Raleigh/Durham, NC: Raleigh-Durham International",
+            "size": 35019
+      },
+      "279": {
+            "name": "Sacramento, CA: Sacramento International",
+            "size": 40981
+      },
+      "28": {
+            "name": "Niagara Falls, NY: Niagara Falls International",
+            "size": 367
+      },
+      "280": {
+            "name": "San Jose, CA: Norman Y. Mineta San Jose International",
+            "size": 41753
+      },
+      "281": {
+            "name": "Santa Ana, CA: John Wayne Airport-Orange County",
+            "size": 42640
+      },
+      "282": {
+            "name": "New Orleans, LA: Louis Armstrong New Orleans International",
+            "size": 43410
+      },
+      "283": {
+            "name": "Kansas City, MO: Kansas City International",
+            "size": 43449
+      },
+      "284": {
+            "name": "Austin, TX: Austin - Bergstrom International",
+            "size": 46329
+      },
+      "285": {
+            "name": "Honolulu, HI: Honolulu International",
+            "size": 47267
+      },
+      "286": {
+            "name": "Oakland, CA: Metropolitan Oakland International",
+            "size": 48607
+      },
+      "287": {
+            "name": "Nashville, TN: Nashville International",
+            "size": 51544
+      },
+      "288": {
+            "name": "Houston, TX: William P Hobby",
+            "size": 54342
+      },
+      "289": {
+            "name": "St. Louis, MO: Lambert-St. Louis International",
+            "size": 55033
+      },
+      "29": {
+            "name": "Longview, TX: East Texas Regional",
+            "size": 397
+      },
+      "290": {
+            "name": "Portland, OR: Portland International",
+            "size": 58245
+      },
+      "291": {
+            "name": "Tampa, FL: Tampa International",
+            "size": 67970
+      },
+      "292": {
+            "name": "Dallas, TX: Dallas Love Field",
+            "size": 69015
+      },
+      "293": {
+            "name": "Miami, FL: Miami International",
+            "size": 70234
+      },
+      "294": {
+            "name": "Philadelphia, PA: Philadelphia International",
+            "size": 73085
+      },
+      "295": {
+            "name": "San Diego, CA: San Diego International",
+            "size": 77865
+      },
+      "296": {
+            "name": "Washington, DC: Ronald Reagan Washington National",
+            "size": 78457
+      },
+      "297": {
+            "name": "Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",
+            "size": 83017
+      },
+      "298": {
+            "name": "Chicago, IL: Chicago Midway International",
+            "size": 87753
+      },
+      "299": {
+            "name": "Baltimore, MD: Baltimore/Washington International Thurgood Marshall",
+            "size": 95883
+      },
+      "3": {
+            "name": "Wendover, UT: Wendover Airport",
+            "size": 1
+      },
+      "30": {
+            "name": "Garden City, KS: Garden City Regional",
+            "size": 426
+      },
+      "300": {
+            "name": "New York, NY: LaGuardia",
+            "size": 96988
+      },
+      "301": {
+            "name": "New York, NY: John F. Kennedy International",
+            "size": 97914
+      },
+      "302": {
+            "name": "Salt Lake City, UT: Salt Lake City International",
+            "size": 108529
+      },
+      "303": {
+            "name": "Charlotte, NC: Charlotte Douglas International",
+            "size": 110955
+      },
+      "304": {
+            "name": "Newark, NJ: Newark Liberty International",
+            "size": 115529
+      },
+      "305": {
+            "name": "Boston, MA: Logan International",
+            "size": 121011
+      },
+      "306": {
+            "name": "Detroit, MI: Detroit Metro Wayne County",
+            "size": 123910
+      },
+      "307": {
+            "name": "Orlando, FL: Orlando International",
+            "size": 125425
+      },
+      "308": {
+            "name": "Minneapolis, MN: Minneapolis-St Paul International",
+            "size": 129056
+      },
+      "309": {
+            "name": "Seattle, WA: Seattle/Tacoma International",
+            "size": 132366
+      },
+      "31": {
+            "name": "Roswell, NM: Roswell International Air Center",
+            "size": 474
+      },
+      "310": {
+            "name": "Houston, TX: George Bush Intercontinental/Houston",
+            "size": 138419
+      },
+      "311": {
+            "name": "Las Vegas, NV: McCarran International",
+            "size": 150683
+      },
+      "312": {
+            "name": "Phoenix, AZ: Phoenix Sky Harbor International",
+            "size": 158821
+      },
+      "313": {
+            "name": "San Francisco, CA: San Francisco International",
+            "size": 172041
+      },
+      "314": {
+            "name": "Dallas/Fort Worth, TX: Dallas/Fort Worth International",
+            "size": 201235
+      },
+      "315": {
+            "name": "Los Angeles, CA: Los Angeles International",
+            "size": 212148
+      },
+      "316": {
+            "name": "Denver, CO: Denver International",
+            "size": 225987
+      },
+      "317": {
+            "name": "Chicago, IL: Chicago O'Hare International",
+            "size": 250835
+      },
+      "318": {
+            "name": "Atlanta, GA: Hartsfield-Jackson Atlanta International",
+            "size": 384724
+      },
+      "32": {
+            "name": "Joplin, MO: Joplin Regional",
+            "size": 498
+      },
+      "33": {
+            "name": "Kodiak, AK: Kodiak Airport",
+            "size": 542
+      },
+      "34": {
+            "name": "Tyler, TX: Tyler Pounds Regional",
+            "size": 588
+      },
+      "35": {
+            "name": "Beaumont/Port Arthur, TX: Jack Brooks Regional",
+            "size": 589
+      },
+      "36": {
+            "name": "Devils Lake, ND: Devils Lake Regional",
+            "size": 597
+      },
+      "37": {
+            "name": "Nantucket, MA: Nantucket Memorial",
+            "size": 612
+      },
+      "38": {
+            "name": "Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",
+            "size": 617
+      },
+      "39": {
+            "name": "Hobbs, NM: Lea County Regional",
+            "size": 621
+      },
+      "4": {
+            "name": "Punta Gorda, FL: Punta Gorda Airport",
+            "size": 42
+      },
+      "40": {
+            "name": "Laramie, WY: Laramie Regional",
+            "size": 626
+      },
+      "41": {
+            "name": "Cedar City, UT: Cedar City Regional",
+            "size": 627
+      },
+      "42": {
+            "name": "Hays, KS: Hays Regional",
+            "size": 627
+      },
+      "43": {
+            "name": "Escanaba, MI: Delta County",
+            "size": 628
+      },
+      "44": {
+            "name": "Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",
+            "size": 628
+      },
+      "45": {
+            "name": "International Falls, MN: Falls International Einarson Field",
+            "size": 629
+      },
+      "46": {
+            "name": "Bangor, ME: Bangor International",
+            "size": 633
+      },
+      "47": {
+            "name": "Bellingham, WA: Bellingham International",
+            "size": 635
+      },
+      "48": {
+            "name": "Elko, NV: Elko Regional",
+            "size": 637
+      },
+      "49": {
+            "name": "Brainerd, MN: Brainerd Lakes Regional",
+            "size": 641
+      },
+      "5": {
+            "name": "Sioux City, IA: Sioux Gateway/Col. Bud Day Field",
+            "size": 58
+      },
+      "50": {
+            "name": "Alpena, MI: Alpena County Regional",
+            "size": 643
+      },
+      "51": {
+            "name": "Rock Springs, WY: Rock Springs Sweetwater County",
+            "size": 661
+      },
+      "52": {
+            "name": "Iron Mountain/Kingsfd, MI: Ford",
+            "size": 679
+      },
+      "53": {
+            "name": "Butte, MT: Bert Mooney",
+            "size": 683
+      },
+      "54": {
+            "name": "Marquette, MI: Sawyer International",
+            "size": 686
+      },
+      "55": {
+            "name": "Muskegon, MI: Muskegon County",
+            "size": 688
+      },
+      "56": {
+            "name": "Eau Claire, WI: Chippewa Valley Regional",
+            "size": 689
+      },
+      "57": {
+            "name": "Paducah, KY: Barkley Regional",
+            "size": 689
+      },
+      "58": {
+            "name": "Sault Ste. Marie, MI: Chippewa County International",
+            "size": 692
+      },
+      "59": {
+            "name": "New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",
+            "size": 702
+      },
+      "6": {
+            "name": "Waterloo, IA: Waterloo Regional",
+            "size": 58
+      },
+      "60": {
+            "name": "Lewiston, ID: Lewiston Nez Perce County",
+            "size": 713
+      },
+      "61": {
+            "name": "Worcester, MA: Worcester Regional",
+            "size": 720
+      },
+      "62": {
+            "name": "Cordova, AK: Merle K Mudhole Smith",
+            "size": 724
+      },
+      "63": {
+            "name": "Nome, AK: Nome Airport",
+            "size": 724
+      },
+      "64": {
+            "name": "Kotzebue, AK: Ralph Wien Memorial",
+            "size": 725
+      },
+      "65": {
+            "name": "Yakutat, AK: Yakutat Airport",
+            "size": 725
+      },
+      "66": {
+            "name": "Petersburg, AK: Petersburg James A Johnson",
+            "size": 728
+      },
+      "67": {
+            "name": "Wrangell, AK: Wrangell Airport",
+            "size": 728
+      },
+      "68": {
+            "name": "Bemidji, MN: Bemidji Regional",
+            "size": 731
+      },
+      "69": {
+            "name": "Erie, PA: Erie International/Tom Ridge Field",
+            "size": 735
+      },
+      "7": {
+            "name": "King Salmon, AK: King Salmon Airport",
+            "size": 63
+      },
+      "70": {
+            "name": "Hancock/Houghton, MI: Houghton County Memorial",
+            "size": 737
+      },
+      "71": {
+            "name": "Newburgh/Poughkeepsie, NY: Stewart International",
+            "size": 739
+      },
+      "72": {
+            "name": "Aberdeen, SD: Aberdeen Regional",
+            "size": 744
+      },
+      "73": {
+            "name": "State College, PA: University Park",
+            "size": 751
+      },
+      "74": {
+            "name": "Ithaca/Cortland, NY: Ithaca Tompkins Regional",
+            "size": 842
+      },
+      "75": {
+            "name": "Deadhorse, AK: Deadhorse Airport",
+            "size": 850
+      },
+      "76": {
+            "name": "Ponce, PR: Mercedita",
+            "size": 858
+      },
+      "77": {
+            "name": "Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",
+            "size": 870
+      },
+      "78": {
+            "name": "Mosinee, WI: Central Wisconsin",
+            "size": 878
+      },
+      "79": {
+            "name": "La Crosse, WI: La Crosse Regional",
+            "size": 882
+      },
+      "8": {
+            "name": "Dillingham, AK: Dillingham Airport",
+            "size": 84
+      },
+      "80": {
+            "name": "Binghamton, NY: Greater Binghamton/Edwin A. Link Field",
+            "size": 883
+      },
+      "81": {
+            "name": "Texarkana, AR: Texarkana Regional-Webb Field",
+            "size": 890
+      },
+      "82": {
+            "name": "Cody, WY: Yellowstone Regional",
+            "size": 895
+      },
+      "83": {
+            "name": "Pocatello, ID: Pocatello Regional",
+            "size": 899
+      },
+      "84": {
+            "name": "Jamestown, ND: Jamestown Regional",
+            "size": 933
+      },
+      "85": {
+            "name": "Barrow, AK: Wiley Post/Will Rogers Memorial",
+            "size": 938
+      },
+      "86": {
+            "name": "Redding, CA: Redding Municipal",
+            "size": 962
+      },
+      "87": {
+            "name": "Bethel, AK: Bethel Airport",
+            "size": 977
+      },
+      "88": {
+            "name": "Hibbing, MN: Range Regional",
+            "size": 992
+      },
+      "89": {
+            "name": "Meridian, MS: Key Field",
+            "size": 993
+      },
+      "9": {
+            "name": "Gustavus, AK: Gustavus Airport",
+            "size": 84
+      },
+      "90": {
+            "name": "Hayden, CO: Yampa Valley",
+            "size": 998
+      },
+      "91": {
+            "name": "Albany, GA: Southwest Georgia Regional",
+            "size": 1005
+      },
+      "92": {
+            "name": "Columbus, MS: Golden Triangle Regional",
+            "size": 1017
+      },
+      "93": {
+            "name": "Valdosta, GA: Valdosta Regional",
+            "size": 1027
+      },
+      "94": {
+            "name": "Brunswick, GA: Brunswick Golden Isles",
+            "size": 1032
+      },
+      "95": {
+            "name": "Latrobe, PA: Arnold Palmer Regional",
+            "size": 1040
+      },
+      "96": {
+            "name": "Gillette, WY: Gillette Campbell County",
+            "size": 1044
+      },
+      "97": {
+            "name": "Twin Falls, ID: Joslin Field - Magic Valley Regional",
+            "size": 1044
+      },
+      "98": {
+            "name": "Rhinelander, WI: Rhinelander/Oneida County",
+            "size": 1045
+      },
+      "99": {
+            "name": "San Angelo, TX: San Angelo Regional/Mathis Field",
+            "size": 1051
+      }
+}
